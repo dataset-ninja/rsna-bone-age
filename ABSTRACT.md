@@ -1,5 +1,7 @@
+The dataset for **RSNA* Pediatric Bone Age Challenge 2017** was initiated by the authors to showcase the application of machine learning (ML) and artificial intelligence (AI) in the realm of medical imaging. It comprises 14,236 hand radiographs (12,611 in the *training* set, 1,425 in the *validation* set, and 200 in the *test* set) The primary objectives included fostering collaboration for AI model development, leveraging ML techniques to accurately determine skeletal age in pediatric hand radiographs, and identifying innovators in medical imaging.
 
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
+The dataset, sourced from Children's Hospital Colorado and Lucile Packard Children's Hospital at Stanford, included training and validation sets labeled with skeletal *boneage* estimates and sex. An additional test set was used to evaluate algorithm performance. Ground truth estimates were based on multiple expert reviewers and the Greulich and Pyle standard.
 
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+The challenge not only showcased the potential of ML in medical imaging but also highlighted a collaborative and open approach to advancing research in the field. This model, as exemplified by the challenge, is anticipated to inspire future ML challenges, fostering global collaboration and the development of tools to enhance diagnostic capabilities in healthcare.
+
+<i>*RSNA - Radiological Society of North America</i>
