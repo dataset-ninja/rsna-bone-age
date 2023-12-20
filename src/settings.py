@@ -15,7 +15,7 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "RSNA Bone Age 2017"
 PROJECT_NAME_FULL: str = "RSNA Pediatric Bone Age Challenge 2017"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
@@ -26,7 +26,7 @@ LICENSE: License = License.Custom(
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Medical()]
 CATEGORY: Category = Category.Medical()
 
-CV_TASKS: List[CVTask] = [CVTask.Identification(), CVTask.Classification()]
+CV_TASKS: List[CVTask] = [CVTask.Identification()]
 ANNOTATION_TYPES: List[AnnotationType] = []
 
 RELEASE_DATE: Optional[str] = None  # e.g. "YYYY-MM-DD"
