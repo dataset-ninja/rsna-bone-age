@@ -1,6 +1,6 @@
 Dataset **RSNA Bone Age 2017** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/X/r/0P/XFjtEnZAZMBI5TJDuGa5uuNRZ4kJMTB3prlIq2R4O8IzG7qUHXfTBhXEep6aghtozGlrUMAWq93GXJcvYIuS7PX8uwh9EjRA5iO11Xg4iZbLpDqcVjCUklrmoOfk.tar)
+ [Download](https://www.dropbox.com/scl/fi/n0jpdiz2pej0z5z0242ze/rsna-bone-age-2017-DatasetNinja.tar?rlkey=fxjal14j67tac1lwzbnwvzn2f&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
